@@ -1,4 +1,5 @@
 import { Observable } from 'rxjs';
+import distinct from './distinct';
 import pairwise from './pairwise';
 
 export default function main() {

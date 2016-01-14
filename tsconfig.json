@@ -12,6 +12,7 @@
   "files": [
     "./typings/tsd.d.ts",
     "./src/index.ts",
+    "./test/distinct-test.ts",
     "./test/pairwise-test.ts"
   ]
 }
