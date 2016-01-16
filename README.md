@@ -1,6 +1,6 @@
-# typescript-boilerplate
+# rxjs-operator-examples
 
-typescript-boilerplate
+rxjs-operator-examples
 
 ## License
 
